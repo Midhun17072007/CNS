@@ -65,5 +65,6 @@ void main()
 }
 ~~~
 OUTPUT :-
-<img width="1030" height="493" alt="Screenshot 2025-08-20 090855" src="https://github.com/user-attachments/assets/9e34e5ca-7302-42da-bc04-98e1571e9849" />
+<img width="556" height="447" alt="image" src="https://github.com/user-attachments/assets/cb9db994-23e7-4017-b241-a92466877ab0" />
+
 
